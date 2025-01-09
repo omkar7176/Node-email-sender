@@ -28,8 +28,6 @@ A simple email sender application built with Node.js using Nodemailer and dotenv
    ```bash
    node sendEmail.js
 
-
-
 ## License
 
 ### Notes:
